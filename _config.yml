@@ -1,6 +1,7 @@
 title: Gradient Ascent Tutoring
 logo: /assets/img/logo.png
-description:  Math, Statistics, and Machine Learning Tutoring Services
-show_downloads: true
+description:  Math, Statistics, and Machine Learning Tutoring Services with Iordan Ganev.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+email: iordan.tutoring@gmail.com

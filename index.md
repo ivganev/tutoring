@@ -15,15 +15,31 @@ layout: default
 
 ## I'm here to help! 
 
-My name is Iordan and dozens of students have worked with me to level up their math and coding skills. I've been in the teaching and tutoring business for over ten years. 
+My name is Iordan and dozens of students have worked with me to level up their math and coding skills. I've been in the education business for over ten years, as a teacher, tutor, and researcher. Learn more about me [here](./aboutiordan.html).
+
 
   <!-- <p>My aim is to provide guidance as you master challenging technical skills, and to support you on your learning journey.</p> -->
 
-  Learn more about me [here](/aboutiordan.md).
 
 ## Topics
 
-Here is a list of topics I commonly tutor:
+Broadly speaking, the topics I tutor fall into several areas:
+<ul>
+  <li>Mathematics</li>
+  <li>Coding and Computer Science</li>
+  <li>Probability and Statistics</li>
+  <li>Data Science and Machine Learning</li>
+  <li>Quantitative Finance</li>
+</ul>
+
+For more details, check out the [topics](./topics.html) page.
+
+## Contact
+
+<iordan.tutoring@gmail.com>
+
+<!-- 
+Here is a list of topics I commonly tutor. If you're interested in a topic that is on this list but may be related, just ask!
 
 ### Mathematics
 <ul>
@@ -61,4 +77,4 @@ Here is a list of topics I commonly tutor:
 <ul>
   <li>Stochastic Processes, Option Pricing, Black-Scholes</li>
   <li>Quant Interview Preparation</li>
-</ul>
+</ul> -->
