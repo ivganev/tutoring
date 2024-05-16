@@ -1,123 +1,64 @@
 ---
 layout: default
 ---
+# Welcome to Gradient Ascent Tutoring!
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<ul>
+  <li>Looking to improve your math, statistics, or machine learning skills?</li> 
+  <br>
+  <li>Feeling stuck while getting your very first data science project up and running?</li>
+  <br> 
+  <li>Not sure how best to prepare for coding or quantitative reasoning interviews?</li>
+  <br>
+  <li>Or maybe you'd just like a helping hand to get through linear algebra or business statistics?</li>
+</ul>
 
-[Link to another page](./another-page.html).
+## I'm here to help! 
 
-There should be whitespace between paragraphs.
+My name is Iordan and dozens of students have worked with me to level up their math and coding skills. I've been in the teaching and tutoring business for over ten years. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+  <!-- <p>My aim is to provide guidance as you master challenging technical skills, and to support you on your learning journey.</p> -->
 
-# Header 1
+  Learn more about me [here](/aboutiordan.md).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Topics
 
-## Header 2
+Here is a list of topics I commonly tutor:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Mathematics
+<ul>
+  <li>Calculus (all levels)</li>
+  <li>Linear Algebra and Differential Equations</li>
+  <li>Discrete Math and Combinatorics</li>
+  <li>Abstract Algebra (Groups, Rings, Fields, Modules)</li>
+</ul>
 
-### Header 3
+### Computer Science
+<ul>
+  <li>Python Programming</li>
+  <li>Data Structures and Algorithms</li>
+  <li>Machine Learning and Statistical Learning</li>
+  <li>Coding Interview Preparation</li>
+</ul>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Statistics
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<ul>
+  <li>Business Statistics</li>
+  <li>Statistical Inference, Hypothesis Testing, Confidence Intervals</li>
+  <li>Bayesian Statistics</li>
+  <li>Probability Distributions, Markov Chains, Random Processes</li>
+</ul>
 
-#### Header 4
+### Data Science
+<ul>
+  <li>Python Libraries: Pandas, NumPy, SciPy, Matplotlib, SciKit-Learn, PyTorch</li>
+  <li>Statistical Learning: Regression, Classification, Clustering, Neural Networks</li>
+  <li>Data Analysis in Jupyter Notebooks</li>
+</ul>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Quantitative Finance
+<ul>
+  <li>Stochastic Processes, Option Pricing, Black-Scholes</li>
+  <li>Quant Interview Preparation</li>
+</ul>
