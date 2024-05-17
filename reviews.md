@@ -25,9 +25,11 @@ Helped work through some questions and areas that were confusing in pandas. Very
 
 ## Feedback from students at UT Austin:
 
->**Iordan is literally the best TA I've seen.** During TA sessions, he'd always be lively and sweet and patient with even [with] off topic questions. If I didn't understand something, he'd explain it in such a way that gave me exactly the knowledge I was missing.
 
 >**What a great TA to start my college experience with!** Iordan is very helpful in working through specific problems and finding meaning and broader patterns within each homework assignment. He knows how to explain both theoretically through proofs and mechanically for specific problems. He tailors the lesson to what we would like to go over and is always willing to talk over more extensive problems.
+
+>**Iordan is literally the best TA I've seen.** During TA sessions, he'd always be lively and sweet and patient with even [with] off topic questions. If I didn't understand something, he'd explain it in such a way that gave me exactly the knowledge I was missing.
+
 
 >**Iordan is an incredible TA.**. Incredibly interested in the student's success and he seems like in incredible guy. He definitely contributed a lot to my success in the class.
 
@@ -35,13 +37,13 @@ Helped work through some questions and areas that were confusing in pandas. Very
 
 >**Iordan is the best teaching assistant I have had at UT.** Very knowledgeable, kind, and cares that you learn the material.
 
-
->**Iordan was committed to helping us learn the material** and always managed to simplify seemingly complicated mathematical concepts. 
+<!-- 
+>**Iordan was committed to helping us learn the material** and always managed to simplify seemingly complicated mathematical concepts.  -->
 
 <!-- He always encouraged all of us to take advantage of his office hours and would remind us that Discussion Sessions are for our own benefit so we should take advantage of them. Overall great TA. -->
 
 
->**He was rad**.
+<!-- >**He was rad**. -->
 
 >**Iordan was an awesome teaching assistant**. He knew the material very well and clearly explained problems. I like how he doesn't just give the answer but rather lets the students think it out for themselves guiding them as they go along. He is also a very cool person. 
 
