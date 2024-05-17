@@ -32,6 +32,7 @@ The [topics](./topics.html) I tutor fall into several areas:
   <li>Probability and Statistics</li>
   <li>Data Science and Machine Learning</li>
   <li>Quantitative Finance</li>
+  <li>Interview Prep</li>
 </ul>
 
 Take a look at the more detailed [topic list](./topics.html), learn more [about me](./aboutiordan.html), browse the [reviews](./reviews.html) of my services, and check out the [pricing](./pricing.html). If you like what you see and think I can assist in supporting you in your learning journey, go ahead and email me at <iordan.tutoring@gmail.com> to set up a tutoring session!

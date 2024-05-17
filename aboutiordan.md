@@ -15,7 +15,7 @@ I am a:
 * data scientist
 * educator
 
-In case you're wondering, my name is pronounced like Jordan with an 'i'. But Jordan is also fine :).
+In case you're wondering, my name is pronounced like Jordan with an 'i'. But Jordan is also fine :)
 
 
 ## Teaching and Tutoring Experience
