@@ -15,7 +15,9 @@ layout: default
 
 ## I'm here to help! 
 
-My name is Iordan and I've helped dozens of students level up their math and coding skills. I've been in the education business for over ten years, as a teacher, tutor, and researcher. Learn more about me [here](./aboutiordan.html).
+My name is [Iordan](./aboutiordan.html) and I've helped dozens of students level up their math and coding skills. I've been in the education business for over ten years, as a teacher, tutor, and researcher. 
+
+<!-- Learn more about me [here](./aboutiordan.html). -->
 
 
   <!-- <p>My aim is to provide guidance as you master challenging technical skills, and to support you on your learning journey.</p> -->
@@ -23,7 +25,7 @@ My name is Iordan and I've helped dozens of students level up their math and cod
 
 <!-- ## Topics -->
 
-The topics I tutor fall into several areas:
+The [topics](./topics.html) I tutor fall into several areas:
 <ul>
   <li>Mathematics</li>
   <li>Coding and Computer Science</li>
@@ -32,7 +34,17 @@ The topics I tutor fall into several areas:
   <li>Quantitative Finance</li>
 </ul>
 
-For more details, check out the [topics](./topics.html) page.
+Take a look at the more detailed [topic list](./topics.html), learn more [about me](./aboutiordan.html), browse the [reviews](./reviews.html) of my services, and check out the [pricing](./pricing.html). If you like what you see and think I can assist in supporting you in your learning journey, go ahead and email me at <iordan.tutoring@gmail.com> to set up a tutoring session!
+
+
+<!-- For more details, check out the [topics](./topics.html) page. -->
+
+
+
+
+
+<!--  -->
+
 
 <!-- ## Contact
 

@@ -22,3 +22,7 @@ At the moment, I only do online tutoring via Zoom.
 
 I can occasionally provide solutions to old homework problems (ones already submitted), but will not dictate solutions to current homework problems. Neither will I help you with take-home exams. 
 
+## I'm eager to start tutoring. What's the next step?
+
+<p>Awesome! Go ahead and <a href="mailto:iordan.tutoring@gmail.com">email</a> and we'll find a time to meet. See the <a href="./pricing">pricing</a> page for information about my rate. I offer a free 20-minute consultation before diving into technical material.</p>
+

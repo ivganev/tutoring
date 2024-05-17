@@ -12,7 +12,7 @@ I offer a free 20-minute consultation to get to know each other and see if we're
 
 ## Tutoring rate
 
-After the free consultation, my rate is $119 per hour. I'm open to negotiation depending on subject difficulty, the duration of our engagement, and different financial situations.
+After the free consultation, my rate is $119 per hour. I'm open to negotiation depending on the subject difficulty, the duration of our engagement, and different financial situations.
 
 ## Other services
 

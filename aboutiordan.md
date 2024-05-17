@@ -28,7 +28,4 @@ In case you're wondering, my name is pronounced like Jordan with an 'i'. But Jor
 
 ## Research Experience 
 
- For more about me and the sort of research I've done, check out my [personal site](https://ivganev.github.io/).
-
-
-<!-- Trying out some latex : $$\mathbb{R}^2 \to \mathbb{Z}$$ -->
+ For more about the sort of research I've done, check out my [research site](https://ivganev.github.io/).
