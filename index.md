@@ -4,26 +4,26 @@ layout: default
 # Welcome to Gradient Ascent Tutoring!
 
 <ul>
-  <li>Looking to improve your math, statistics, or machine learning skills?</li> 
+  <li>Looking to improve your <b>math</b>, <b>statistics</b>, or <b>machine learning</b> skills?</li>
   <br>
-  <li>Feeling stuck while getting your very first data science project up and running?</li>
+  <li>Feeling stuck while getting your very first <b>data science project</b> up and running?</li>
   <br> 
-  <li>Not sure how best to prepare for coding or quantitative reasoning interviews?</li>
+  <li>Not sure how best to prepare for coding or quantitative reasoning <b>interviews</b>?</li>
   <br>
-  <li>Or maybe you'd just like a helping hand to get through linear algebra or business statistics?</li>
+  <li>Or maybe you'd just like a helping hand to get through <b>coursework</b> in, say, linear algebra or business statistics?</li>
 </ul>
 
 ## I'm here to help! 
 
-My name is Iordan and dozens of students have worked with me to level up their math and coding skills. I've been in the education business for over ten years, as a teacher, tutor, and researcher. Learn more about me [here](./aboutiordan.html).
+My name is Iordan and I've helped dozens of students level up their math and coding skills. I've been in the education business for over ten years, as a teacher, tutor, and researcher. Learn more about me [here](./aboutiordan.html).
 
 
   <!-- <p>My aim is to provide guidance as you master challenging technical skills, and to support you on your learning journey.</p> -->
 
 
-## Topics
+<!-- ## Topics -->
 
-Broadly speaking, the topics I tutor fall into several areas:
+The topics I tutor fall into several areas:
 <ul>
   <li>Mathematics</li>
   <li>Coding and Computer Science</li>
@@ -34,9 +34,9 @@ Broadly speaking, the topics I tutor fall into several areas:
 
 For more details, check out the [topics](./topics.html) page.
 
-## Contact
+<!-- ## Contact
 
-<iordan.tutoring@gmail.com>
+<iordan.tutoring@gmail.com> -->
 
 <!-- 
 Here is a list of topics I commonly tutor. If you're interested in a topic that is on this list but may be related, just ask!
