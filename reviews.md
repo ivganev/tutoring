@@ -28,10 +28,10 @@ Helped work through some questions and areas that were confusing in pandas. Very
 
 >**What a great TA to start my college experience with!** Iordan is very helpful in working through specific problems and finding meaning and broader patterns within each homework assignment. He knows how to explain both theoretically through proofs and mechanically for specific problems. He tailors the lesson to what we would like to go over and is always willing to talk over more extensive problems.
 
->**Iordan is literally the best TA I've seen.** During TA sessions, he'd always be lively and sweet and patient with even [with] off topic questions. If I didn't understand something, he'd explain it in such a way that gave me exactly the knowledge I was missing.
+>**Iordan is literally the best TA I've seen.** During TA sessions, he'd always be lively and sweet and patient with even with off topic questions. If I didn't understand something, he'd explain it in such a way that gave me exactly the knowledge I was missing.
 
 
->**Iordan is an incredible TA.**. Incredibly interested in the student's success and he seems like in incredible guy. He definitely contributed a lot to my success in the class.
+>**Iordan is an incredible TA.** Incredibly interested in the student's success and an incredible guy. He definitely contributed a lot to my success in the class.
 
 <!-- >**Iordan was excellent in answering my questions**. He clearly stated when and where his office hours were, and if I needed to contact him before discussion sections to ask about homework, he responded promptly and with hints that made me think about the problem. He made an effort to learn my name, and I appreciated that because it felt like he came to learn what kind of instruction I responded well to. I think he is one of the best TAs I have had, and am quite sad to have to get someone else to teach me calculus. -->
 

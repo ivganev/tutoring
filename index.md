@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome to Gradient Ascent Tutoring.
+# Welcome
 
 <ul>
   <li>Looking to improve your <b>math</b>, <b>statistics</b>, or <b>machine learning</b> skills?</li>
@@ -23,7 +23,7 @@ layout: default
 
 <!-- ## Topics -->
 
-My name is [Iordan](./aboutiordan.html) and I've helped dozens of students level up their math and coding skills. I've been in the education business for 10+ years, as a teacher, tutor, and researcher. 
+My name is [Iordan](./aboutiordan.html) and I've helped dozens of students level up their math and coding skills. I've been in the education business for 10+ years as a teacher, tutor, and researcher. 
 The [topics](./topics.html) I tutor fall into several areas:
 <ul>
   <li>Mathematics</li>
@@ -36,7 +36,9 @@ The [topics](./topics.html) I tutor fall into several areas:
 
 Take a look at the more detailed [topic list](./topics.html), learn more [about me](./aboutiordan.html), browse the [reviews](./reviews.html) of my services, and check out my [pricing](./pricing.html). 
 
-<p>If you like what you see and think I can assist in supporting you in your learning journey, go ahead and <a href="mailto:iordan.tutoring@gmail.com">email</a> me to book your first lesson!
+## Get in touch
+
+<p>If you like what you see and think I can assist and support you in your learning journey, go ahead and <a href="mailto:iordan.tutoring@gmail.com">email</a> me to book your first lesson!
 
 
 <!-- For more details, check out the [topics](./topics.html) page. -->
