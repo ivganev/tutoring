@@ -7,7 +7,7 @@ permalink: /topics
 
 ## Topics
 
-Here is a list of topics I commonly tutor. If you're interested in a topic that is not on this list but may be related, just ask!
+Here is a list of topics I commonly tutor. Looking for a topic not on this list? Ask me about it at <iordan.tutoring@gmail.com>.
 
 ### Mathematics
 <ul>
@@ -47,7 +47,8 @@ Here is a list of topics I commonly tutor. If you're interested in a topic that 
 
 ### Quantitative Finance
 <ul>
-  <li>Stochastic Processes, Option Pricing, Black-Scholes, Volatility Smiles</li>
+  <li>Stochastic Processes (Random Walks, Brownian Motion)</li>
+  <li>Option Pricing (Black-Scholes, Volatility Smiles)</li>
 </ul>
 
 ### Interview Prep

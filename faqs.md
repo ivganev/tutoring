@@ -26,3 +26,11 @@ I can occasionally provide solutions to old homework problems (ones already subm
 
 <p>Awesome! Go ahead and <a href="mailto:iordan.tutoring@gmail.com">email</a> and we'll find a time to meet. See the <a href="./pricing">pricing</a> page for information about my rate. I offer a free 20-minute consultation before diving into technical material.</p>
 
+## Can I get a discount?
+
+My rate is always negotiable. Let me know about your goals and financial situation. We'll decide on a mutually agreeable rate together.  
+
+
+## I have a question not on this list.
+
+<p>Feel drop my a line by <a href="mailto:iordan.tutoring@gmail.com">email</a>.</p>
