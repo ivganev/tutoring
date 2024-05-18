@@ -7,7 +7,7 @@ permalink: /topics
 
 ## Topics
 
-Here is a list of topics I commonly tutor. Looking for a topic not on this list? Ask me about it at <iordan.tutoring@gmail.com>.
+<p>Here is a list of topics I commonly tutor. Looking for a topic not on this list? Drop a line by <a href="mailto:{{ site.email }}">email</a> to ask!</p>
 
 ### Mathematics
 <ul>

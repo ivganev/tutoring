@@ -20,4 +20,4 @@ I often provide students with customized study guides, exam prep worksheets, or 
 
 ## Ready to begin?
 
-Email me at <iordan.tutoring@gmail.com> to book your free consultation!
+<p>Send an email to <a href="mailto:{{ site.email }}">{{ site.email }}</a> to book your free consultation!</p>

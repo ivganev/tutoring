@@ -18,13 +18,13 @@ Whatever the topic at hand, my tutoring style involves sharing my enthusiasm whi
 
 At the moment, I only tutor online via Zoom. 
 
-## Are you comfortable tutoring _______________?
+## Can you help me with _______________?
 
-<p>Check out the <a href="./topics">topics</a> page, or <a href="mailto:iordan.tutoring@gmail.com">email</a> me if what you're interested is not on the list. If pertinent, feel free to send a pdf with the material you're working on.</p>
+<p>Check out the <a href="./topics">topics</a> page, or send an email if what you're interested is not on the list. If pertinent, feel free to attach a pdf with the class syllabus or assignment you're working on.</p>
 
 ## Can you do my homework for me? Maybe also the exam?
 
-I can occasionally provide solutions to old homework problems (ones already submitted), but will not dictate solutions to current homework problems. Similarly, I will help you prepare for exams, but won't help you directly with exams. 
+I can occasionally provide solutions to old homework problems (ones already submitted), but will not dictate solutions to current homework problems. Similarly, I will help you prepare for exams, but won't solve exam questions directly. 
 
 ## Can I get a discount?
 
@@ -32,8 +32,8 @@ My rate is always negotiable. Let me know about your goals and financial situati
 
 ## I'm eager to start tutoring. What's the next step?
 
-<p>Awesome! Go ahead and <a href="mailto:iordan.tutoring@gmail.com">email</a> and we'll find a time to meet. See the <a href="./pricing">pricing</a> page for information about my rate. I offer a free 20-minute consultation before diving into technical material.</p>
+<p>Awesome! Email me and we'll find a time to meet. See the <a href="./pricing">pricing</a> page for information about my rate. I offer a free 20-minute consultation before diving into technical material.</p>
 
 ## I have a question not on this list.
 
-<p>Feel drop my a line by <a href="mailto:iordan.tutoring@gmail.com">email</a>.</p>
+<p>Feel free to ask by  <a href="mailto:{{ site.email }}">email</a>.</p>
