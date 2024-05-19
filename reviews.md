@@ -6,7 +6,7 @@ permalink: /reviews
 
 # Reviews
 
-## Feedback from students I've tutored:
+## Feedback from students I've tutored
 
 > **Very knowledgeable mathematician**. 
 I worked with Iordan regularly over the course of a semester of graduate-level applied machine learning. He was always able to help explain the course content (which was very heavy in math), and he was also very helpful with the python programming assignments.
@@ -23,9 +23,9 @@ Helped work through some questions and areas that were confusing in pandas. Very
 > **Great tutor with great skills in Machine learning**. Iordan is also very responsible and would ask for materials in advance to prepare for the lesson.
 -- Aaron Q.
 
-## Feedback from students at UT Austin:
+## Feedback from students at UT Austin
 
-These are part of anonymous evaluations regarding my role as a teaching assistant for calculus, differential equations, and linear algebra. 
+These are part of anonymous evaluations regarding my role as a teaching assistant for classes such as calculus, differential equations, and linear algebra. 
 
 >**What a great TA to start my college experience with!** Iordan is very helpful in working through specific problems and finding meaning and broader patterns within each homework assignment. He knows how to explain both theoretically through proofs and mechanically for specific problems. He tailors the lesson to what we would like to go over and is always willing to talk over more extensive problems.
 

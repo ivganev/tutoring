@@ -12,7 +12,7 @@ Whatever the topic at hand, my tutoring style involves sharing my enthusiasm whi
 
 ## Who do you work with?
 
-  <p>I'm happy to guide students of all ages! Most of the people I work with are college or masters students pursuing a degree in a STEM discipline, as well as talented high school students interested in math and coding. I also have a number of independent adult learners working on personal projects or looking to gain useful skills for their career.</p>
+  <p>I'm happy to guide students of all ages! Most of the people I work with are college or masters students pursuing a degree in a STEM discipline, as well as talented high school students interested in math and coding. I also frequently meet with independent adult learners working on personal projects or looking to gain useful skills for their career.</p>
 
 ## Do you do in-person tutoring?
 
@@ -20,7 +20,7 @@ At the moment, I only tutor online via Zoom.
 
 ## Can you help me with _______________?
 
-<p>Check out the <a href="./topics">topics</a> page, or send an email if what you're interested is not on the list. If pertinent, feel free to attach a pdf with the class syllabus or assignment you're working on.</p>
+<p>Check out the <a href="./topics">topics</a> page, or send an email if what you're interested is not on the list. If pertinent, feel free to share the class syllabus or assignment you're working on.</p>
 
 ## Can you do my homework for me? Maybe also the exam?
 
@@ -32,7 +32,7 @@ My rate is always negotiable. Let me know about your goals and financial situati
 
 ## I'm eager to start tutoring. What's the next step?
 
-<p>Awesome! Email me and we'll find a time to meet. See the <a href="./pricing">pricing</a> page for information about my rate. I offer a free 20-minute consultation before diving into technical material.</p>
+<p>Awesome! Email me with your availability and we'll find a time to meet. See the <a href="./pricing">pricing</a> page for information about my rate. I offer a free 20-minute consultation before diving into technical material.</p>
 
 ## I have a question not on this list.
 
