@@ -12,7 +12,7 @@ Whatever the topic at hand, my tutoring style involves sharing my enthusiasm whi
 
 ## Who do you work with?
 
-  <p>I'm happy to guide students of all ages! Most of the people I work with are college or masters students pursuing a degree in a STEM discipline, as well as talented high school students interested in math and coding. I also frequently meet with independent adult learners working on personal projects or looking to gain useful skills for their career.</p>
+<p>I'm happy to guide students of all ages! Most of the people I work with are college or masters students pursuing a degree in a STEM discipline, as well as talented high school students interested in math and coding. I also frequently meet with independent adult learners working on personal projects or looking to gain useful skills for their career.</p>
 
 ## Do you do in-person tutoring?
 

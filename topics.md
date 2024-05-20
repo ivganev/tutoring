@@ -4,7 +4,6 @@ title: Topics
 permalink: /topics
 ---
 
-
 ## Topics
 
 <p>Here is a list of topics I commonly tutor. Looking for a topic not on this list? Drop a line by <a href="mailto:{{ site.email }}">email</a> to ask!</p>
@@ -57,13 +56,3 @@ permalink: /topics
   <li>Quant Interview Questions</li>
   <li>Brainteasers</li>
 </ul>
-
-
-<!-- <ul>
-  <li>NumPy</li>
-  <li>Pandas</li>
-  <li>Matplotlib</li>
-  <li>SciPy</li>
-  <li>SciKit-Learn</li>
-  <li>PyTorch</li>
-  </ul> -->

@@ -6,9 +6,9 @@ permalink: /pricing
 
 # Pricing
 
-## Free Consultation
+## Free consultation
 
-I offer a free 20-minute consultation to get to know each other and see if we're a good match. I'll ask you about your situation and what you're looking to gain from tutoring, and you can ask me anything.
+I offer a free 20-minute consultation to get to know each other and see if we're a good match. I'll ask you about your situation and what you're looking to gain from tutoring, and you can feel free to ask me anything.
 
 ## Tutoring rate
 

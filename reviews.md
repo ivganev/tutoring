@@ -34,21 +34,8 @@ These are part of anonymous evaluations regarding my role as a teaching assistan
 
 >**Iordan is an incredible TA.** Incredibly interested in the student's success and an incredible guy. He definitely contributed a lot to my success in the class.
 
-<!-- >**Iordan was excellent in answering my questions**. He clearly stated when and where his office hours were, and if I needed to contact him before discussion sections to ask about homework, he responded promptly and with hints that made me think about the problem. He made an effort to learn my name, and I appreciated that because it felt like he came to learn what kind of instruction I responded well to. I think he is one of the best TAs I have had, and am quite sad to have to get someone else to teach me calculus. -->
-
 >**Iordan is the best teaching assistant I have had at UT.** Very knowledgeable, kind, and cares that you learn the material.
 
-<!-- 
->**Iordan was committed to helping us learn the material** and always managed to simplify seemingly complicated mathematical concepts.  -->
-
-<!-- He always encouraged all of us to take advantage of his office hours and would remind us that Discussion Sessions are for our own benefit so we should take advantage of them. Overall great TA. -->
-
-
-<!-- >**He was rad**. -->
-
 >**Iordan was an awesome teaching assistant**. He knew the material very well and clearly explained problems. I like how he doesn't just give the answer but rather lets the students think it out for themselves guiding them as they go along. He is also a very cool person. 
-
-
-
 
 <!-- Trying out some latex : $$\mathbb{R}^2 \to \mathbb{Z}$$ -->
