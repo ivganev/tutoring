@@ -5,11 +5,16 @@ layout: default
 
 <ul>
   <li>Looking to improve your <b>math</b>, <b>statistics</b>, or <b>machine learning</b> skills?</li>
-  <br>
+  </ul>
+  <ul>
   <li>Feeling stuck while getting your very first <b>data science project</b> up and running?</li>
-  <br> 
+    </ul>
+
+  <ul>
   <li>Not sure how best to prepare for coding or quantitative reasoning <b>interviews</b>?</li>
-  <br>
+    </ul>
+
+  <ul>
   <li>Or maybe you'd just like a helping hand to get through <b>coursework</b> in, say, linear algebra or business statistics?</li>
 </ul>
 
