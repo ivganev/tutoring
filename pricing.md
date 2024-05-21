@@ -8,11 +8,11 @@ permalink: /pricing
 
 ## Free consultation
 
-I offer a free 20-minute consultation to get to know each other and see if we're a good match. I'll ask you about your situation and what you're looking to gain from tutoring, and you can feel free to ask me anything.
+<p>I offer a free {{ site.free_minutes }}-minute consultation to get to know each other and see if we're a good match. I'll ask you about your situation and what you're looking to gain from tutoring, and you can feel free to ask me anything.</p>
 
 ## Tutoring rate
 
-After the free consultation, my rate is $119 per hour. I'm open to negotiation depending on the subject difficulty, the duration of our engagement, and different financial backgrounds.
+<p>After the free consultation, my rate is ${{ site.rate }} per hour. I'm open to negotiation depending on the subject difficulty, the duration of our engagement, and different financial backgrounds.</p>
 
 ## Other services
 

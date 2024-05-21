@@ -12,6 +12,8 @@ permalink: /reviews
 I worked with Iordan regularly over the course of a semester of graduate-level applied machine learning. He was always able to help explain the course content (which was very heavy in math), and he was also very helpful with the python programming assignments.
 -- Max P.
 
+> **Iordan is a really great tutor!** He worked with my daughter Sarah over the course of one full semester during her college Freshman year at UT Austin. Sarah wanted to get a head start in Sequence Series and Multivariable Calculus (M408D). She has greatly benefited from her tutoring sessions with Iordan, since he is very good at explaining problems. Sarah got to deeply understand her homework assignments and class contents, and therefore managed to improve her grade in the class. We highly recommend Iordan!
+
 > **Outstanding**. 
 Iordan worked with me and refreshed some things as we worked on loops and nested loops, lists, dictionaries, classes, methods, and functions. Easy to talk to and listen to. He is extremely knowledgeable.
 -- Roy S.

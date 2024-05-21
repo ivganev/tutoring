@@ -32,7 +32,7 @@ My rate is always negotiable. Let me know about your goals and financial situati
 
 ## I'm eager to start tutoring. What's the next step?
 
-<p>Awesome! Email me with your availability and we'll find a time to meet. See the <a href="./pricing">pricing</a> page for information about my rate. I offer a free 20-minute consultation before diving into technical material.</p>
+<p>Awesome! Email me with your availability and we'll find a time to meet. See the <a href="./pricing">pricing</a> page for information about my rate. I offer a free consultation session before diving into technical material.</p>
 
 ## I have a question not on this list.
 
