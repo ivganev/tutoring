@@ -12,7 +12,7 @@ permalink: /topics
 <ul>
   <li>Calculus (all levels)</li>
   <li>Linear Algebra and Differential Equations</li>
-  <li>Discrete Math and Combinatorics</li>
+  <li>Discrete Math, Graph Theory, and Combinatorics</li>
   <li>Abstract Algebra (Groups, Rings, Fields, Modules)</li>
   <!-- <li>Introduction to Proofs and Logic</li> -->
   <li>Manifolds and Differential Geometry</li>
@@ -41,7 +41,7 @@ permalink: /topics
   <li>Python Libraries: Numpy, Pandas, Matplotlib, Scipy, Scikit-learn, Pytorch, Tensorflow.
   </li>
   <li>Statistical Learning: Regression, Classification, Clustering, Decision Trees, Neural Networks</li>
-  <li>Data Analysis and Visualization in Jupyter Notebooks</li>
+  <li>Data Cleaning, Analysis, and Visualization in Jupyter Notebooks</li>
 </ul>
 
 ### Quantitative Finance

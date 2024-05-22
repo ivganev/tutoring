@@ -10,10 +10,10 @@ permalink: /aboutiordan
 
 I am a:
 
-* PhD mathematician
-* machine learning researcher
-* data scientist
-* educator
+* PhD Mathematician
+* Machine Learning Researcher
+* Data Scientist
+* Educator
 
 In case you're wondering, my name is pronounced like Jordan with an 'i'. But Jordan is also fine :) 
 
@@ -28,6 +28,6 @@ Since graduating, I've been teaching mathematics and machine learning at several
 
 ## Other Relevant Experience 
 
-I've published original research in mathematics and machine learning, and engaged in other academic activities, such as presenting at seminars, organizing conferences, preparing grant proposals, and mentoring graduate students. For more about the sort of research I've done, as well as a collection of expository notes, check out my [research site](https://ivganev.github.io/).
+I've published original research in mathematics and machine learning, and engaged in other academic activities, such as presenting at seminars, organizing international conferences, collaborating with an eclectic mix of scholars, preparing grant proposals, and mentoring graduate students. For more about the sort of research I've done, as well as a collection of expository notes, check out my [research site](https://ivganev.github.io/).
 
 On the industry side, I worked as a quantitative developer in the finance sector, and have been involved with several start-ups as a consultant / data scientist / data engineer. I'm familiar with the scrum agile workflow framework and with software development tools such as git and docker. While Python is my strongest language, I also have experience with Rust and PostgreSQL. 
