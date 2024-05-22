@@ -1,8 +1,5 @@
 # Gradient Ascent Tutoring Site
 
-Webpage for Iordan Ganev's tutoring business.
+Webpage for Iordan Ganev's tutoring business. If all is well, it should be live at <https://grad-ascent.com/>.
 
-
-Made using the Minimal Theme, a Jekyll theme for GitHub Pages. 
-
-<!-- You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage). -->
+Made using the [Minimal Theme](https://github.com/pages-themes/minimal), a Jekyll theme for GitHub Pages. 
