@@ -14,7 +14,6 @@ permalink: /topics
   <li>Linear Algebra and Differential Equations</li>
   <li>Discrete Math, Graph Theory, and Combinatorics</li>
   <li>Abstract Algebra (Groups, Rings, Fields, Modules)</li>
-  <!-- <li>Introduction to Proofs and Logic</li> -->
   <li>Manifolds and Differential Geometry</li>
   <li>Category Theory and Representation Theory</li>
   <li>Point-Set Topology and Algebraic Topology</li>

@@ -8,6 +8,7 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+
   </head>
   <body>
     <div class="wrapper">
@@ -17,28 +18,18 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" width="150" class="center" />
           <br>
-        
         {% endif %}
-
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         <hr>
-
-        > <a href=".">Home</a>
-        <br>
-        > <a href="./topics.html">Topics</a>
-        <br>
-        > <a href="./aboutiordan.html">About</a>
-        <br>
-        > <a href="./pricing.html">Pricing</a>
-        <br>
-        > <a href="./reviews.html">Reviews</a>
-        <br>
-        > <a href="./faqs.html">FAQs</a>
-        <br>
-        <br>
-        <hr>
+        > <a href=".">Home</a><br>
+        > <a href="./topics.html">Topics</a><br>
+        > <a href="./aboutiordan.html">About</a><br>
+        > <a href="./pricing.html">Pricing</a><br>
+        > <a href="./reviews.html">Reviews</a><br>
+        > <a href="./faqs.html">FAQs</a><br>
+        <br><hr>
         <p>Contact:<br>
         <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         <hr>
@@ -52,8 +43,6 @@
       </section>
       
       <footer>
-  
- 
         <!-- {% if site.github.is_project_page %}
         <p><small>This site is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</small></a></p>
         {% endif %} -->
