@@ -4,11 +4,11 @@ title: Topics
 permalink: /topics
 ---
 
-## Topics
+# Topics
 
 <p>Here is a list of topics I commonly tutor. Looking for a topic not on this list? Drop a line by <a href="mailto:{{ site.email }}">email</a> to ask!</p>
 
-### Mathematics
+## Mathematics
 <ul>
   <li>Calculus (all levels)</li>
   <li>Linear Algebra and Differential Equations</li>
@@ -19,14 +19,14 @@ permalink: /topics
   <li>Point-Set Topology and Algebraic Topology</li>
 </ul>
 
-### Computer Science
+## Computer Science
 <ul>
   <li>Python Programming</li>
   <li>Data Structures and Algorithms</li>
   <li>Principles of Machine Learning and Statistical Learning</li>
 </ul>
 
-### Statistics
+## Statistics
 
 <ul>
   <li>Business Statistics</li>
@@ -35,7 +35,7 @@ permalink: /topics
 <li>Bayesian Methods</li>
 </ul>
 
-### Data Science
+## Data Science
 <ul>
   <li>Python Libraries: Numpy, Pandas, Matplotlib, Scipy, Scikit-learn, Pytorch, Tensorflow.
   </li>
@@ -43,13 +43,13 @@ permalink: /topics
   <li>Data Cleaning, Analysis, and Visualization in Jupyter Notebooks</li>
 </ul>
 
-### Quantitative Finance
+## Quantitative Finance
 <ul>
   <li>Stochastic Processes (Random Walks, Brownian Motion)</li>
   <li>Option Pricing (Black-Scholes, Volatility Smiles)</li>
 </ul>
 
-### Interview Prep
+## Interview Prep
 <ul>
   <li>Leetcode-Style Coding Problems</li>
   <li>Quant Interview Questions</li>
